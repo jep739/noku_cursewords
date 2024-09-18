@@ -1,5 +1,7 @@
 # NØKU Curse Word Analysis
 
+![image](https://github.com/user-attachments/assets/585517da-5de8-44ac-995a-d4316b03c765)
+
 #### The code here uses data that is only available to SSB employees. Confidential data is hidden from this README and from the code. The code itself was developed in the Statistics Norway (SSB) organisation repository and later a lite version was copied here to reflect my work done for SSB.
 
 A tool for analysing trends relating to a category of responses (such as curse words) in the NØKU statistics survey. 
@@ -9,10 +11,6 @@ A lighthearted analysis of specific responses/comments/feedback received for on 
 While a little tongue in cheek, it should be appreciated that this feedback is taken very seriously and although the analysis here is done by code, that humans actually read all the feedback that is provided. This is how we are able to provide a comphresive word list to feed into the program. 
 
 There are important messages in this data. Negative feedback is valuable, no matter how it is expressed. We at SSB have heard the message loud and clear and we are making efforts to improve the experience by respondents to surveys. Current ideas being explored include the use of AI to assist responders, the use of machine learning models to populate business statistics distributions and other statistical models are being developed with the end goal being that we dont need to send surveys to as many businesses. 
-
-
-![image](https://github.com/user-attachments/assets/585517da-5de8-44ac-995a-d4316b03c765)
-
 
 
 ## Instructions
