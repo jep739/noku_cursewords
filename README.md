@@ -1,5 +1,9 @@
 # NØKU Curse Word Analysis
 
+Norsk versjon:
+
+- [Norsk](NNI_README_NO.md)
+
 ![image](https://github.com/user-attachments/assets/585517da-5de8-44ac-995a-d4316b03c765)
 
 #### The code here uses data that is only available to SSB employees. Confidential data is hidden from this README and from the code. The code itself was developed in the Statistics Norway (SSB) organisation repository and later a lite version was copied here to reflect my work done for SSB.
