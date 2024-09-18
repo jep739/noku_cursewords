@@ -1,5 +1,9 @@
 # NØKU Banneordanalyse
 
+English version:
+
+- [English](README.md)
+
 ![image](https://github.com/user-attachments/assets/585517da-5de8-44ac-995a-d4316b03c765)
 
 #### Koden her bruker data som kun er tilgjengelig for ansatte i SSB. Konfidensiell data er skjult fra denne README-filen og fra koden. Selve koden ble utviklet i Statistisk sentralbyrå (SSB) sitt organisasjonsrepo, og senere ble en lettversjon kopiert hit for å reflektere mitt arbeid gjort for SSB.
