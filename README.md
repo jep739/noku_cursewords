@@ -2,7 +2,7 @@
 
 Norsk versjon:
 
-- [Norsk](NNI_README_NO.md)
+- [Norsk](README_NO.md)
 
 ![image](https://github.com/user-attachments/assets/585517da-5de8-44ac-995a-d4316b03c765)
 
